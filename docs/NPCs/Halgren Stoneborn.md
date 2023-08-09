@@ -1,0 +1,1 @@
+(blood of ???, high priest of Thanedur)

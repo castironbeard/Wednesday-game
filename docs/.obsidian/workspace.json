@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "20dd27fabcebc561",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3df9e3cb936d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731a34d2d72ca26f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24a874e39ba59dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b6fe5ca6fd99ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0860e932b8077896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80df6211c90d3932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c200a7119f3ce9e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1440b6816715f7fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2755ef10af9e92a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db9cfae97ce3a11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6aea2483803de2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df6eed86da87d913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1d54fc492a03986",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "731a34d2d72ca26f",
+  "lastOpenFiles": [
+    "Loot.md",
+    "Session Notes/Session Notes - 16.md",
+    "Session Notes/Session Notes - 15.md",
+    "Session Notes/Session Notes - 14.md",
+    "Rumors.md",
+    "Places/Dwarrowdeep, Ruins of Kaer-Kelek.md",
+    "Places/Henge of the Heavens.md",
+    "Places/Hamelet.md",
+    "Places/Gundgathol.md",
+    "Places/Frozenfar.md",
+    "Places/Deadwood Mote.md",
+    "Places/Crypts of the Ermine Mantel.md",
+    "Session Notes/Session Notes - 01.md",
+    "Session Notes/Session Notes - 04.md",
+    "Lore.md",
+    "Session Notes/Session Notes - 02.md",
+    "NPCs/Jayla the bar maid.md",
+    "Session Notes/Places.md",
+    "NPCs/Durass Longbeard.md",
+    "NPCs/Sir Alec, Champion of St Ygg.md",
+    "NPCs/Old One Kolg the Wise.md",
+    "NPCs/Halgren Stoneborn.md",
+    "NPCs/Lug the Cyclopsman.md",
+    "NPCs/Prince Thordain Stoneborn.md",
+    "Session Notes/Session Notes - 03.md",
+    "Session Notes/Session Notes - 13.md"
+  ]
+}
