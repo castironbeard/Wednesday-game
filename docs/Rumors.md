@@ -7,3 +7,6 @@ Graffiti in the Great Hall
 	In the shadow sea lies salvation
 	"The entrance to the East remains open"
 
+
+Barmaid in Slovenly Troll
+There's a dragon in the mountains that snatches children.  Martha Bigglesby (moved to Threshold) says her kid was taken.

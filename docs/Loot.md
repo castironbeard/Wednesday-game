@@ -12,3 +12,10 @@ black sapphire ~250gp
 white moonstone ~225gp
 Mace with a slight glow (+1 mace, 1/day cleric can cast light spell)
 Move all to bank - 528gp (after identifying the mace)
+
+Session 17 notes
+bank +153 -500 -20 (petty cash)
+Sale of the Warp Beast Pelt - 5000gp
+south room in Eastern half of the Southern entrance
+- purse with 200gp
+
