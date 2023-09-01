@@ -19,3 +19,16 @@ Sale of the Warp Beast Pelt - 5000gp
 south room in Eastern half of the Southern entrance
 - purse with 200gp
 
+Session 18 notes
+6 crossbow bolts, pristine (on skeletons)
+
+Searching barracks
+- Find a bag with a
+	- silver helm (85gp)
+	- gold disc brooch inlaid with garnets (150gp)
+
+coin purse in the corner? - 36pp, 6gp, 50sp, 100cp
+
+Orcs/rats/zombies
+- grunts - 62cp, 5gp, 32sp, 5ep, 20gp
+- leader - 36sp, 15gp, 18pp, electrum bracelet 100gp, gold scabbard 500gp, +1 light crossbow, runestone - pristine, perfectly smooth, etched into is a 4leaf clover
