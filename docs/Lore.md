@@ -1,3 +1,5 @@
+Lore
+
 Rune Stones - often inscribed by clerics with the power of their deities; can have powers like boosting scores, turning spells
 
 Hammer of the Dwarvish Lords - hammer used by Thaneduhr to create the dwarves. Holy quest to find the hammer. Duergar are also hunting for it under orders from Dworgrim

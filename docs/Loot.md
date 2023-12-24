@@ -1,3 +1,5 @@
+Loot
+
 rune stone - “This stone eternalizes the courage of my friend Klarbuin Cobblestone, Blood of Klarri, who waded into the goblin spears and was slain at the Battle of Maiden’s Stone.”
 
 

@@ -1,3 +1,5 @@
+Rumors
+
 Graffiti in the Great Hall
 	Human skull with a crack down the center, drawn in red
 	"Secret passage before the bridge" - in Dwarfish
