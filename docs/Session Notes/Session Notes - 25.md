@@ -1,6 +1,6 @@
 10/25/2023
 
-**Readying 05**
+**Readying 05 - Waterday**
 
 Standing outside the main gate, which is barred by the orcs. The survey team has "Big Bertha", a barrel stuffed with explosives. Will cost 2000gp to use.
 
@@ -12,6 +12,6 @@ A band of orcs wanders in while we are investigating the barracks. We fire on th
 
 Roy: "I don't even have time to say 'Dang'"
 
-We take in a dwarven cleric of Krom (Karl).
+We take in a dwarven cleric of Crom (Karl).
 
 Find phase spiders

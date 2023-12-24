@@ -1,6 +1,6 @@
 11/08/2023
 
-**Readying 05**
+**Readying 05 - Waterday**
 
 Just rested in Western Hallway, 3 stone doors, carved in dwarven faces we don't recognize
 	hear nothing behind the doors
@@ -25,9 +25,9 @@ There are footprints in the dust in the room, heading north, and along the wall 
 	Backpack 1: Thieves' Tools, miniature bell, block & tackle, grappling hook, twine
 	Backpack 2: crowbar, chisel, sledge hammer, sword, 6 torches, package of iron rations
 	Backpack 3: (2) potions of healing, holy symbol to the green man, bunch of wolfsbane
-	Backpack 4: (3) spell scrolls (*floating disc, detect magic, invisibility*), spell book (pocket w/ card inside says "Helix Public Library" - *sleep, magic missile, web*)
+	Backpack 4: (3) spell scrolls (*floating disc, detect magic, invisibility*), spell book (pocket w/ card inside says "Hamelet Public Library" - *sleep, magic missile, web*)
 
-Go back to statue of Duredain to investigate down the NW hallway
+Go back to statue of Dhurindain to investigate down the NW hallway
 Orc war party waiting for us
 Retreat down to the secret room, casting ventriloquism into the trap room and throwing a torch in there.  We hear screams, and emerge from the secret room thinking they fell in the trap.  The laughing war party greets us.
 

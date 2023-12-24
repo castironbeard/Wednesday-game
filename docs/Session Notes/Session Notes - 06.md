@@ -22,7 +22,7 @@ Behind the waterfall there's a small dugout
 	Strewn across the floor is a massive pile of small animal bones
 	Smell of death
 
-Arched entryway - Karir Kalik (Fortress along the Water)
+Arched entryway - Kaer-Kelek (Fortress along the Water)
 	Looking out from this point is an awe inspiring view of the lake and forest to another mountain chain in the distance
 	The doors to the keep are open
 	All around the gate are spears with skulls on top, with the ones closer to the stairs having flesh on them still, marked with 2 red ovals
@@ -34,7 +34,7 @@ Looking across the forest canopy from here we see the Henge of 9 Stens
 
 Camped on the north side of the lake at the edge of the woods
 
-Next morning - A white dragon flies out of the mountains and over the forest, catches a bear, and flies away into the moutains with it
+Next morning - A white dragon flies out of the mountains and over the forest, catches a bear, and flies away into the mountains with it
 
 
 Going into the mountain through the archway

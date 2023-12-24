@@ -1,6 +1,6 @@
 11/29/2023
 
-**Readying 05**
+**Readying 05 - Waterday**
 
 We were hiding in the secret room. A band of orcs were waiting of us.
 

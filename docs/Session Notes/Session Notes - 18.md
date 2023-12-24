@@ -19,13 +19,13 @@ Using mirror to investigate the face with the emerald eyes
 Moving to the East beyond the petrifying faces
 Former training room, broken weapon racks, training dummies, weapon stands, rotting tapestries hanging from the ceiling and piled on the floor, Dwarvish and Orcish weapons scattered on the floor
 Floor is dusty
-4 large statues (Thaneduhr (South) has been defaced - eyes gouged out and nose broken off, Geldinthur, Durendain, Dalgeddin)
+4 large statues (Thaneduhr (South) has been defaced - eyes gouged out and nose broken off, Geddinthor, Dhurindain, Dalgeddin)
 
 SW room - peering in
 - floor is covered in rubble
 
 Next room to the east - broken beds towards the back wall - probably a barracks
-- tossing the beds reveals 3 runestones
+- tossing the beds reveals 3 runestones #runestone 
 	- "This stone marks the life of Muldal Blackanvil, master warrior"
 	- "Remember the strength of my cousin Thalur Ironforge II who waded into the Orc ranks at the Battle of the Bloody Axes"
 	- "I Rothdin wrote the runestone to honour the ancestors of House Barrelhelm"

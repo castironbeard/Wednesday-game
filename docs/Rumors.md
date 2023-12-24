@@ -10,3 +10,5 @@ Graffiti in the Great Hall
 
 Barmaid in Slovenly Troll
 There's a dragon in the mountains that snatches children.  Martha Bigglesby (moved to Threshold) says her kid was taken.
+
+Eadbhert (ealdorman) was looking for the Seat of Sir Rodarick Erminemantle (legendary knight) in the [[Deadwood Mote]]

@@ -1,6 +1,6 @@
 Session 5
 In town, burning a day while waiting to shop
-Towers are carved in king, queen, Dalgideon, and Thoradin
+Towers are carved in king, queen, Dalgeddin, and Thaneduhr
 
 Decided to spend the day exploring hexes around town
 River flows east to west
@@ -15,7 +15,7 @@ Hex to the NW of that - sound of rushing water to the north
 
 Hex to the N of that - Waterfall coming from the mountains, into Loch Rannock - Very Bob Ross
 	Potential campsite in the center of the lake, maybe 50-60' out
-	Standing stone on an island in the middle with a Dwarven symbol on it - shield with a warhammer over a chevron, the symbol of house Broadshield (not one of the noble seven). Gundenthol - guards and mercenaries
+	Standing stone on an island in the middle with a Dwarven symbol on it - shield with a warhammer over a chevron, the symbol of house Broadshield (not one of the noble seven). Gundgathol - guards and mercenaries
 	Large animal (deer, bear) tracks and evidence, fish in lake
 	Forest to the north seems to have a keeper/druid
 

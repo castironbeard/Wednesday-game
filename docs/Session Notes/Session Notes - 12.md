@@ -8,7 +8,7 @@ Roy wants to assassinate
 Corner pillar of room - carving, dwarvish face in different stonework (not defiled or aged like the rest of the room) that glows faintly - When Roy crosses the plane of the carving, it activates the magic mouth
 
 Kill Orc Captain and two orcs
-	Loot - (pg 73) rune stone, Dwarven writing, "Kurolf etched this stone in honour of my ancestor Thondurric in the Year 183."
+	Loot - (pg 73) rune stone, Dwarven writing, "Kurolf etched this stone in honour of my ancestor Thondurric in the Year 183." #runestone 
 	13gp, 10sp, 10cp
 	Key in his pocket, fist for a handle, bronze, long shaft
 	Orc sized chain mail, 3 short bows, 8 arrows, 3 shields

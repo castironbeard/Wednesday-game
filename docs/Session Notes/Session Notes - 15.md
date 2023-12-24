@@ -1,6 +1,6 @@
 7/26/2023
 
-**Fireseek 17 (Moonday), night**
+**Fireseek 17 - Moonday, night**
 Torrential rains, camping near East Entrance
 
 *Elves take watch, Always, Karra, Roy
@@ -20,7 +20,7 @@ Elf lady seems to be a druid, she talks to them and they run away
 - She speaks in a language we don't know - chants a hymn - breeze picks up and trees shake - "Green man bless" and walks into the trees
 - Next saving throw will be automatic success
 
-**Fireseek 18, morning**
+**Fireseek 18 - Tuesday, morning**
 Looking for the elf lady trail - can't find it now
 
 Back to town, bank, replace rations, level up the thief

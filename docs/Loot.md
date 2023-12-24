@@ -89,6 +89,8 @@ We go to the seer to identify our runes/weapons that we collected
 - *Skullbreaker* - seer only saw images of frost-laden barbarians using it to annihilate yetis (3x damage on a crit, Greathammer that can shrink to a size that Small characters can use)
 - quiver + arrows - go further and do more dmg (+10 range, +1 dmg) 
 
+---
+
 Defaced statue room
 - Find a runestone, carved to look like a dwarven face, tucked into the back of the room surrounded by rubble.
 - an object wrapped in burlap, slightly curved dagger, pristine, very sharp
@@ -100,11 +102,18 @@ Secret Adventurer Hidey Hole
 - Backpack 4: (3) spell scrolls (*floating disc, detect magic, invisibility*), spell book (pocket w/ card inside says "Helix Public Library" - *sleep, magic missile, web*)
 
 Orc war band
-- 2000gp, Potion of Growth, light crossbow +1, heavy crossbow +1
+- 2000gp, ~~Potion of Growth~~, light crossbow +1, heavy crossbow +1
 2nd orc war band
 - 7 gems: 10gp, 10gp, 10gp, 50gp, 500gp, 50gp, 50gp
 - 8 jewelery: 75gp, 100gp, 100gp, 125gp, 75gp, 200gp, 75gp (beard ring), 200gp
 3rd orc war band
 - 6000gp
 - pristine sword (could be dwarven but its a sword, very similar to the shield) and pristine shield (utilitarian dwarven made, not fancy carved, as if recently forged)
-- 
+---
+Spending in town
+Identifying items - 300 gp
+Buying armor - 1275 gp
+Carousing - 300 gp
+
+---
+smooth stone, with a holy symbol of Dalgeddin, functions as a "Remove Fear" scroll - Carl takes it

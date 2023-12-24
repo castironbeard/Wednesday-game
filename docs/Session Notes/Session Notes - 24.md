@@ -1,8 +1,9 @@
 10/18/23 
+
 We go to the seer to identify our runes/weapons that we collected 
-- 4 leaf clover runestone- grants luck to the holder (+1 on all saving throws) 
-- leaf runestone - rejuvenation (benefits to people healing from spells/potions/etc.) 
-- runestone with a grindstone on it - seer couldn't read this one, but when we spoke to the clerics they said it increased combat effectiveness and magic effect for +1d4 rounds (7 uses?) 
+- 4 leaf clover runestone #runestone - grants luck to the holder (+1 on all saving throws) 
+- leaf runestone #runestone - rejuvenation (benefits to people healing from spells/potions/etc.) 
+- runestone #runestone with a grindstone on it - seer couldn't read this one, but when we spoke to the clerics they said it increased combat effectiveness and magic effect for +1d4 rounds (7 uses?) 
 - mini runestone bag with dwarven runes - sling stones that break open and spread into multiple runestones of war +2 (4 runestones all with +2; aka good shit) 
 - *Skullbreaker* - seer only saw images of frost-laden barbarians using it to annihilate yetis (3x damage on a crit, Greathammer that can shrink to a size that Small characters can use)
 - quiver + arrows - go further and do more dmg (+10 range, +1 dmg) 

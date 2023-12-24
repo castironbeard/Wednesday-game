@@ -20,7 +20,7 @@ Checking cells - nothing W-E 1, 2, 3 - 4th and 5th room has movement
 cell B is an awful smell - CON check
 cell D - not a cell - has a bedroom set - is a large orc with rats hanging from his belt - strong smell, he is shirt-cocking it
 cell E - 3 giant rats and 4 or 5 big rats (not normal size)
-kill orc in cell D - might be a [[rat king]]?
+kill orc in cell D - might be a [[Question Links#Rat King?]]
 
 Rat king's room - bed and night stand - whip on nightstand, rotting wolf fur on the floor, scimitar, dagger
 	loot: 5gp, 8ep, 9sp, 2cp

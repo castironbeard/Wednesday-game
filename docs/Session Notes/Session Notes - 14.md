@@ -1,13 +1,13 @@
 7/19/2023
 
-**Fireseek 15 (Starday), night**
+**Fireseek 15 - Starday, night**
 During 1st watch (Roy)
 zappy noises and growls to the East and South
 Warp Beast (copyright)
 
 Killed the beast, revived Emmit, rested through the rest of the night
 
-**Fireseek 16, morning**
+**Fireseek 16 - Sunday, morning**
 Skin the beast, get rations for full day for the party
 also got the glands that can be used in alchemy
 
@@ -23,7 +23,7 @@ Always looks around for someone with 7 fingers and tattoos of rings on their fin
 
 (after going outside the walls for a bit) Roy asks at the bar about speaking to a Cobblestone who was asking about dwarven relics.  Bar owner is confused by this because "that boy hasn't come into his money yet and is arguing about it with his brother - I'd not offer him any relics"
 
-**Fireseek 17 (Moonday), morning**
+**Fireseek 17 - Moonday, morning**
 Torrential rains
 Head towards East Entrance
 Get there around 3pm and climb the switchbacks

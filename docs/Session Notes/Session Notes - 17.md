@@ -1,6 +1,6 @@
 8/16/2023
 
-**Fireseek 20, Earthday, morning**
+**Fireseek 20 - Earthday, morning**
 Starting in Threshold
 Always sketch of the spell - interpretation - thinks maybe casting it on a road, picking up dirt and dropping it, will allow them to ask the road questions:  Who traveled on you recently? etc.
 Dreams that night of a book on a pedestal which opens and rifles through to a page with a single paragraph
@@ -28,7 +28,7 @@ Ederhart - village Elder, younger, follower of St Ygg, does the stuff that the o
 Cuthgart - village Elder, older
 
 **Fireseek 22, Starday, morning**  Torrential rain
-Making our way out of the tavern.  On the Eastern side of town there is a large caravan bringing goods and supplies.  (The Emerald Guild Corp.)
+Making our way out of the tavern.  On the Eastern side of town there is a large caravan bringing goods and supplies.  ([[NPCs#The Emerald Guild Corp]])
 - Might be willing to buy the warp beast pelt, but not for 8k
 - Could sell poison, but not in this region
 - Roy asking about a book about Blood Weed poison
@@ -57,7 +57,7 @@ South
 - Cause a cave in
 
 Dragged blood stains go to the East of the main room into another large room
-- Large faces of Durendain every 10', eyes made of rubies -- farthest faces have emerald eyes
+- Large faces of Dhurindain every 10', eyes made of rubies -- farthest faces have emerald eyes
 - symmetrical, all looking towards the center (towards each other)
 - The statues are a trap - meeting their gaze triggers a save vs petrification
 - Looking down, we move through the room to the South doorway

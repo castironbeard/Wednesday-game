@@ -25,4 +25,3 @@ Ellinia cast the "ask the road" spell on the path heading towards the dungeon
 Checking with tunnelers
 Won't send dwarves, only cyclops men
 Requires mercenaries for protection
-z

@@ -1,6 +1,6 @@
 10/04/2023
 
-**Fireseek 28 Freeday, afternoon**  
+**Fireseek 28 - Freeday, afternoon**  
 in the entryway to the dungeon
 
 Green puddles outside a door to the east
@@ -27,6 +27,6 @@ A group of orcs approaches and scouts the door while we look over the battlement
 We let them go one turn, they see the light horse and back off
 We get out the door and return to town
 
-** Readying 03, Moonday **
+**Readying 03 - Moonday**
 Returning to town
 

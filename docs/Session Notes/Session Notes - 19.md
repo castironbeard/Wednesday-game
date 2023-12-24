@@ -17,7 +17,7 @@ NW room - empty, closed door in W wall, archway in NE corner, table in SW corner
 NE archway leads to this is a large hall, bare stone, hallway continues east and north.
 
 NW door is a large stone door with a keyhole - and trapped.  Trap removed. Lock picked.
-Wall directly in front of us has the face of Thanedin etched into the wall. Room is pristine, untouched. 5 beds, only touched by dust. Fire pit in the center of the room.  Metal rod on the side of the firepit for hanging food over the pit.
+Wall directly in front of us has the face of Thaneduhr etched into the wall. Room is pristine, untouched. 5 beds, only touched by dust. Fire pit in the center of the room.  Metal rod on the side of the firepit for hanging food over the pit.
 Archway in SW corner - blocked by portcullis
 	inside the portcullis is a room filled with chests of gold and gems - the officers' tithe
 	No opening mechanism

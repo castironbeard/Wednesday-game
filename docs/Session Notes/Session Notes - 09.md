@@ -30,11 +30,11 @@ We move slowly through the rooms headed to the exit carrying all of the wounded 
 Last room before great hall - two zombies - don't show up in infravision
 Killed them - on their foreheads, red mark like dipped in paint/blood, like cursive J
 
-We had to rest and revive Gigglebottoms.  While resting, 4 men in furs and leathers are sneaking through the front doors.  [[Valdghar's Vandals]], we met them in the bar.  They have a scrawny retainer with them.  We let them distract the orcs while we slipped out the door.
+We had to rest and revive Gigglebottoms.  While resting, 4 men in furs and leathers are sneaking through the front doors.  [[NPCs#Valdghar's Vandals]], we met them in the bar.  They have a scrawny retainer with them.  We let them distract the orcs while we slipped out the door.
 
 Escape out the doors around 4pm, push through the night to get back to town with the wounded prisoners.  Arrive right around midnight.
 
-Guards help to move the wounded to the temple. [[Hamelet#Great Forge of Thaneduhr|Great Forge]] [[#Grewl Hammerhand]] greets us.  We lay the bodies down, he hits a hammer against an anvil calling out the priests.  We leave the bodies overnight.  We learn that the dwarf we rescued is [[NPCs#Gadgrim Longbeard|Gadgrim Longbeard]].
+Guards help to move the wounded to the temple. [[Hamelet#Great Forge of Thaneduhr|Great Forge]] [[NPCs#Khalg Hammerhand]] greets us.  We lay the bodies down, he hits a hammer against an anvil calling out the priests.  We leave the bodies overnight.  We learn that the dwarf we rescued is [[NPCs#Gadgrim Longbeard]].
 
 XP for treasure found this trip in
 - dented electrum goblet - 25 gp
