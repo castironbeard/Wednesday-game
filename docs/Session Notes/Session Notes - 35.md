@@ -1,6 +1,3 @@
-# Wednesday Night Game - Dwarrowdeep
-
-Most recent game...
 2/07/2023
 
 **Readying 14 - Freeday**

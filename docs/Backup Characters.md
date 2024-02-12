@@ -20,3 +20,6 @@
 |                                                |          |       |       |  | sack small x2 | 2    | 8   |
 |                                                |          |       |       |  | scroll case   | 1    | 7   |
 |                                                |          |       |       |  | belt pouch    | 1    | 6   |
+
+![[Pasted image 20240117222231.png]]
+![[Pasted image 20240117222249.png]]

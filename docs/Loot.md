@@ -119,3 +119,33 @@ Carousing - 300 gp
 
 ---
 smooth stone, with a holy symbol of Dalgeddin, functions as a "Remove Fear" scroll - Carl takes it
+
+Stirge room
+Gems - 200, 150, 400, 325, 300, 200
+
+Clockwork cobra room
+page62 fabric wrapped package
+runestone - Dwarven rune, smooth, rune glints, "Aid" - dwarven word for healing
+2 keys
+
+Bugbear and Goblins
+- dwarvish rune stone - dwarvish writing, "Shield"
+- 19cp, 22sp, 6ep, 6pp
+
+Opening the chest:
+- Huge exquisite green and blue Chrysocolla - 68gp
+- Small exquisite pale blue frost agate - 60gp
+- Med broken lt pink Rhodochrosite - 14gp
+- Very large flawed gray black hematite - 24gp
+- Huge average pale blue quartz - 28gp
+- Med average orange sun stone - 22gp
+- Huge average deep blue azurite - 28gp
+
+12 Readying deposit
+
+---
+
+Dwarven skeletons in hidden room
+4 rune stones - 2 broken, leaf (healing), pointed on one end and fat on the other (impact, +4 sling stone, does 1pt extra damage over the required to hit number)
+
+heavy bag from rats - 34sp, 14gp, 10pp, large average pale blue frost agate, small broken obsidian, medium average pink rosaline

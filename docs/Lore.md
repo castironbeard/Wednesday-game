@@ -74,3 +74,7 @@ House Whitebeard
 # Hand of Gaub
 Spell that Always found etched under a table talks of the Seven Fingered Hand of Gaub
 ![[Pasted image 20230816204821.png]]
+
+## Waymarks and Runes
+![[Pasted image 20240124222348.png]]
+Danger?
